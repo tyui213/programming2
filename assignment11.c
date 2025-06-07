@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-//assignment11 ÃÖÁ¤¹Î 2025-03-31
 
-=======
-//assignment11 ÃÖÁ¤¹Î 2025-03-31a
->>>>>>> a6691ae (sdasdasdAdd files via upload)
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
